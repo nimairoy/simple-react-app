@@ -1,0 +1,21 @@
+[ 
+    {  
+        "id": 1,   
+        "name": "Basic Membership", 
+        "prices": 50,
+        "features": ["Cardio equipment", "Weight machines", "Free weights"]
+    },
+    {
+        "id": 2,   
+        "name": "Premium Membership", 
+        "prices": 200,
+        "features": ["Barbells", "Pull-up bars", "Kettlebells"]
+    },
+    {
+        "id": 3,   
+        "name": "Corporate Membership", 
+        "prices": 300,
+        "features": ["Mats", "Blocks", "Straps"]
+    }
+    
+    ]
